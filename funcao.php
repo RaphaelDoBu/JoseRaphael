@@ -4,6 +4,7 @@ function test1(){
 	return TRUE;
 }
 
-function test2_master(){
-	return False;
+function test2($id==0){
+	return TRUE;
 }
+
