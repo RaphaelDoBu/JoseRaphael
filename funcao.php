@@ -7,5 +7,3 @@ function test1(){
 function test2(){
 	return False;
 }
-
-
