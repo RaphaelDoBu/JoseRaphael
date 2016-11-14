@@ -4,6 +4,6 @@ function test1(){
 	return TRUE;
 }
 
-function test2(){
+function test2_master(){
 	return False;
 }
